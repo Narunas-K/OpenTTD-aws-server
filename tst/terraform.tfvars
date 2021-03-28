@@ -1,0 +1,5 @@
+region         = "eu-north-1"
+vpc_name       = "openttd-vpc"
+environment    = "tst"
+ssh_public_key = "ssh-rsa <place-holder-for-ssh-key>"
+ssh_inbound_ip = "<place-hodler-for-your-pc-public-ip>/32"
